@@ -1,0 +1,612 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: lato,sans-serif;
+    height: 100%;
+}
+
+.t{
+    margin-block-end: -0.8em;
+    background-color: rgb(220, 218, 218);
+    margin-right: 74%;
+    width: 26%;
+   
+}
+.te{
+    background-color: rgb(220, 218, 218);
+    margin-right: 54%;
+    width: 46%;
+    margin-bottom: -18px;
+}
+.pp{
+    height: 80px;
+    margin-left: 768px;
+    margin-bottom: -55px;
+    padding-top: 20px;
+}
+
+.first{
+    font-size: 10px;
+    margin-top: -17px;
+    margin-left: 40PX; 
+    
+}
+.nev ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 36px;
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 18px;
+}
+
+.bt{
+    font-size: 9px;
+    font-weight: 700;
+    background-color: #ef5003;
+    padding: 15px;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    margin-left: 850px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    border: 0px;  
+    margin-top: -15PX;
+    padding-top: 18px;
+    padding-bottom: 18px;
+
+}
+
+.na{
+    padding: 0px;
+    margin: -15px;
+}
+
+.btnn{
+    margin-top: 10px;
+}
+
+.nev li{
+    float: left;
+ 
+}
+
+.nev a{
+    /* display: block; */
+    padding: 0 28px;
+    color: rgb(31, 28, 28);
+    text-decoration: none;
+}
+
+nev a:hover{
+    /* hover is use when we click to button back color change */
+    background-color: black;
+}
+
+.img1{
+    background-image: url(ban3.jpg);
+    margin-left: 45px;
+    margin-right: 41px;
+    margin-top: 10px;
+   
+}
+
+  .second{
+      min-height:350px; 
+      margin-top: 30px;
+      margin-left: 75px;
+      display: flex;
+} 
+
+.tex{
+    font-size: 35px;
+    color: white;
+    font-weight: bolder;
+    position: absolute;
+    margin-top: 120px;
+    padding-top: 0px;
+    width: 400px;
+}
+
+.tho{
+    font-size: 35px;
+    width: 400px;
+    padding-top: 50px;
+   
+   
+}
+
+.text{
+     font-size:34px ; 
+    font-weight: bold;
+    
+}
+ .white{
+    letter-spacing: 2px;
+    width: 225px;
+    font-size: 12px;
+    line-height: 24px;
+    
+ }
+ .ann{
+    
+   display: block;
+    background-color: #ffbc00;
+    border-radius: 10px;
+    margin-left: 520px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 250PX;
+    margin-bottom: -156PX;
+    margin-top: -227px;
+  
+  
+   color: #fff;
+ }
+
+.hea{
+    color: #3b1d82;
+    padding-left: 210px;
+    font-size: 24px;
+    font-weight: bold;
+ }
+
+ .headi{
+    margin-left: 40px;
+    font-size: 22px;
+    color: #3b1d82;
+    font-weight: 100;
+    margin-top: 5px;
+ }
+
+.prag{
+         margin: 0px 170px 0 200px;
+         font-size: 19px;
+         padding-top: 50px;
+         margin-bottom: 35px;
+} 
+
+.list{
+    margin-left: 50px;
+    font-weight: bold;
+    
+}
+
+.heading{
+    font-size: 35px;
+}
+
+.btn{
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #ef5003;
+    padding: 15px;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    margin-left: 420px;
+    padding-left: 27px;
+    padding-right: 27px;
+    text-align: center;
+    border: 0px;
+}
+.btn:hover{
+    background-color: #d20055;
+    box-shadow: 2px 2px 1px; 
+}
+
+.btn2{
+    font-size: 13px;
+    font-weight: 700;
+    background-color: #ef5003;
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    margin-left: 485px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    border: 0px;
+}
+
+.btn2:hover{
+    background-color: #d20055;
+    box-shadow: 2px 2px 1px; 
+}
+
+.heading2{
+    margin-left:125px ;
+    width: 215px;
+    font-size: 21px;
+    margin-bottom: -75PX;
+ 
+}
+
+.im{
+    height: 110px;
+}
+
+.bo{
+    padding-left: 129px;
+    margin-top: 50px;
+}
+
+.old{
+    display: flex;
+    
+
+}
+.od{
+ 
+    padding-left: 25px;
+    padding-top: 10px;
+
+}
+
+.odd{
+    padding-top: 10px;
+}
+.oddd{
+    padding-top: 10px;
+    padding-right: 140px;
+    font-size: 18px;
+    line-height: 25px;
+
+}
+
+.lis{
+    line-height: 25px;
+    font-size: 18px;
+}
+
+.btn3{
+    font-size: 12px;
+    font-weight: 700;
+    background-color: #ef5003;
+    padding: 15px;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    margin-left: 250px;
+    padding-left: 9px;
+    padding-right: 6px;
+    text-align: center;
+    border: 0px;
+    margin-top: 35px;
+}
+
+.image3{
+    margin-left: 150px;
+    margin-right: 75px;
+}
+
+.ko{
+    display: flex;
+}
+.noob{
+    margin-left: 30px;
+    margin-top: 7px;
+    line-height: 23px;
+    font-size: 17px;
+}
+.text3o{
+    line-height: 23px;
+    font-size: 17px;
+}
+.list3o{
+    line-height:25px ;
+    padding-top: 6px;
+
+}
+
+.vi{
+    width: 407px;
+    font-size: 30px;
+    margin-left: 450px;
+    padding-top: 100px;
+    color: #fff;
+}
+
+.myvideo{
+    position: absolute;
+    height: 482px;
+    width: 100%;
+    z-index: -1;
+}
+
+.photo{
+    background-image: url(collab.jpg);
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 105px;
+    min-height: 500PX;
+}
+
+.texo{
+    font-size: 33px;
+    font-weight: bold;
+    color: white;
+
+    
+}
+
+.black{
+      font-size: 20px;
+      margin-left: 610px;
+      line-height: 30px;
+      background-color: #ffbc00;
+      margin-right: 17px;
+     margin-bottom: -150px;
+      padding-top: 20px;
+      padding-bottom: 25px;
+      padding-left: 25px;
+      color: white;
+      margin-top: 100px;
+}
+
+.suffa{
+    width: 105px;
+}
+.second2{
+    padding-top:85px;
+  
+}
+
+.lim{
+    margin-top: 50px;
+    font-size: 23px;
+    margin-left: 290px;
+}
+
+
+
+
+.ab{
+    color: #3b1d82;
+    margin-top: 55px;
+    font-size: 20px;
+    margin-left: 100px;
+    font-weight: bolder;
+}
+
+.abd{
+    font-size: 20px;
+    margin-left: 440px;
+   
+    color: #3b1d82;
+}
+
+.hen{
+    position: relative;
+    height: 515px;
+    margin-left: 50px;
+    border: 1px solid black;
+    margin-top: 50px;
+}
+
+.pan{
+    font-size: 22px;
+    padding-top: 200px;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.top{
+    padding-left: 320px;
+}
+.top2{
+    padding-left: 228px;
+    margin-top: 45px;
+}
+.top3{
+    padding-left: 244px;
+    margin-bottom: 45px;
+}
+.bottom{
+    padding-left: 427px;
+    
+}
+.bottom2{
+    padding-left: 230px;
+}
+.bottom3{
+    font-size: 14px;
+    padding-left: 375px;
+    color:rgb(20, 118, 216) ;
+    padding-bottom: 125px;
+}
+
+.last{
+    margin-top: 50px;
+    position:relative ;
+}
+
+.lastimg{
+    background-image: url(ban3.jpg) ;
+    height: 275px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.8;
+    overflow: hidden;
+   
+}
+
+.lastimg{
+    display: flex;
+    padding-top: 85px;
+   
+}
+.h10{
+    color: white;
+    font-size: 42px;
+    padding-left: 30px;
+    width: 130px;
+    
+}
+
+.p10{
+    margin-top: 70px;
+    font-size: 19px;
+    width: 293px;
+    margin-left: -120px;
+    color: white;
+}
+
+.h20{
+    color: white;
+    font-size: 42px;
+    padding-left: 30px;
+    width: 130px
+     
+}
+
+.p20{
+    margin-top: 70px;
+    font-size: 19px;
+    width: 293px;
+    margin-left: -120px;
+    color: white;
+}
+
+.h30{
+    color: white;
+    font-size: 42px;
+   padding-left: 50px;
+    width: 269px
+    
+}
+
+.p30{
+    color: white;
+    font-size: 15px;
+    line-height: 27px;  
+    margin-top: 16px;
+}
+
+.wa{
+    margin-top: 435px;
+}
+
+.footer{
+    background-color: #ad135a;
+
+ 
+}
+
+.cc{
+    height: 110px;
+   margin-left: 727px;
+    margin-bottom: -55px;
+   
+}
+
+.lp{
+    color: white;
+    font-size: 15px;
+    margin-bottom: -50px;
+    padding-left: 35px;
+    font-weight: bold;
+    padding-top: 40px;
+}
+
+.lastul{
+    margin: 0px;
+    padding: 0px;
+    height: 35px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 45px;
+    margin-top: 75px;
+    
+}
+
+.lastli{
+    float: left;
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.lastli a{
+    margin-right: 112px;
+    color: rgb(20, 118, 216);
+    text-decoration: none;
+}
+
+.do{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+
+
+.lastli a:hover{
+    color: #ef5003;
+}
+
+.margin{
+    border-top: 2px solid #fff;
+    width: 61%;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.lastp{
+    width: 600px;
+    margin-left: 210px;
+    text-align: center;
+    color: #fff;
+    
+}
+.end{
+    background-color: black;
+    padding-top: 27px;
+    padding-bottom: 27px;
+ 
+}
+
+.icon{
+    display: flex;
+    margin-left: 420px;
+    margin-top: 50px;
+    padding-bottom: 100px;
+    cursor: pointer;
+}
+
+.icon1{
+    height: 50px;
+    margin-right: 12px;
+}
+
+.icon2{
+    height: 50px;
+    margin-right: 12px;
+}
+
+.icon3{
+    height: 50px;
+    margin-right: 12px;
+}
+
+.la{
+    margin-left: 320px;
+    color: white;
+}
+
+
+
